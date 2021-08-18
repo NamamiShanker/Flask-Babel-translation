@@ -14,7 +14,7 @@
 ## Testing
 1. Install Postman
 2. wsgi runs on port 5000. So send a get request to **localhost:5000**. Check if the application is running
-3. Add a header `Accept Languages`. Set its value to language code of your preferred language.
+3. Add a header `Accept-Language` to your request. Set its value to language code of your preferred language.
 4. Currently supported langues - en, es
 
 ## Image for reference
