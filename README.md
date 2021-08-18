@@ -19,5 +19,6 @@
 
 ## Image for reference
 
-![language-en](https://i.imgur.com/MeXqDc0.png)  
-![language-es](https://i.imgur.com/GaDQGYd.png)
+|English|Espanol|
+--- | --- 
+|![language-en](https://i.imgur.com/MeXqDc0.png)|![language-es](https://i.imgur.com/GaDQGYd.png)|
